@@ -37,7 +37,9 @@ Pixels stands as a reliable, user-friendly, and visually inspiring platform for 
 - [Usage](#usage)
 - [Features](#features)
 - [UpcomingFeatures](#upcomingfeatures)
+- [Images](#images)
 - [Contributing](#contributing)
+
   
 
 ## Installation
@@ -61,5 +63,21 @@ Pixels stands as a reliable, user-friendly, and visually inspiring platform for 
   - User Authentication
   - Like Image
 
+## Images
+![Capture](https://github.com/MrunalSolkar12/Pixels/assets/92594125/8234505b-fde4-45c1-a35a-a6535bd3b35e)
+
+![ImageView](https://github.com/MrunalSolkar12/Pixels/assets/92594125/82f747bc-c488-4752-9e6b-73e16cee05c5)
+
+![ImageView2](https://github.com/MrunalSolkar12/Pixels/assets/92594125/f29286b9-d7da-49c1-838b-a684bbb240c7)
+
+![SearchPage](https://github.com/MrunalSolkar12/Pixels/assets/92594125/76780132-6a9a-4e54-9af3-39c216a91379)
+
+![SignupPage](https://github.com/MrunalSolkar12/Pixels/assets/92594125/e627997b-e1e6-45f6-ab25-85079c4ff9e8)
+
+
+
 ## Contributing
 Contributions are welcome!
+
+
+
